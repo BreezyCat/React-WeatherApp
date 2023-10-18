@@ -10790,7 +10790,7 @@ function vm() {
       Snow: fm,
       Drizzle: dm,
       Mist: pm,
-      Thunderstrom: mm,
+      Thunderstorm: mm,
       Haze: ym,
       Fog: hm,
     },
