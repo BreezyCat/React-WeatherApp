@@ -31,7 +31,7 @@ export default function App() {
     Snow: snowImg,
     Drizzle: drizzleImg,
     Mist: mistImg,
-    Thunder: thunderImg,
+    Thunderstorm: thunderImg,
     Haze: hazeImg,
     Fog: fogImg,
   };
