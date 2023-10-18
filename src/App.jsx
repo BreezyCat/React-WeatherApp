@@ -6,6 +6,7 @@ import cloudImg from "./Assets/cloud.png";
 import rainImg from "./Assets/rain.png";
 import snowImg from "./Assets/snow.png";
 import drizzleImg from "./Assets/drizzle.png";
+import mistImg from "./Assets/mist.png";
 
 export default function App() {
   const [data, setData] = useState({
@@ -26,6 +27,7 @@ export default function App() {
     Rain: rainImg,
     Snow: snowImg,
     Drizzle: drizzleImg,
+    Mist: mistImg,
   };
 
   const searchLocation = (event) => {
