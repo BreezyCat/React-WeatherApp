@@ -10762,15 +10762,15 @@ Y.getAdapter = mf.getAdapter;
 Y.HttpStatusCode = im;
 Y.default = Y;
 const um = Y,
-  sm = "/assets/clear-60d6fd92.png",
-  am = "/assets/cloud-255c80fc.png",
-  cm = "/assets/rain-fd6e0872.png",
-  fm = "/assets/snow-e160f1d9.png",
-  dm = "/assets/drizzle-a1579c2a.png",
-  pm = "/assets/mist-9f98ee66.png",
-  hm = "/assets/fog-929870bf.png",
-  mm = "/assets/thunder-b2d3d9df.png",
-  ym = "/assets/haze-2463a4ca.png";
+  sm = "./assets/clear-60d6fd92.png",
+  am = "./assets/cloud-255c80fc.png",
+  cm = "./assets/rain-fd6e0872.png",
+  fm = "./assets/snow-e160f1d9.png",
+  dm = "./assets/drizzle-a1579c2a.png",
+  pm = "./assets/mist-9f98ee66.png",
+  hm = "./assets/fog-929870bf.png",
+  mm = "./assets/thunder-b2d3d9df.png",
+  ym = "./assets/haze-2463a4ca.png";
 function vm() {
   const [e, t] = Pt.useState({
       celcius: null,
