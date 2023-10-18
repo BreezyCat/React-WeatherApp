@@ -314,8 +314,8 @@ input:focus{
   }
   
   .weather-icon{
-    width: 45vw;
-    height: 45vw;
+    width: 40vw;
+    height: 40vw;
   }
 
   .app .main, .app .description{
